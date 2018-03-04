@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaleidoskop on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/kaleidoskop/</link>
+    <link>https://suksest.github.io/categories/kaleidoskop/</link>
     <description>Recent content in Kaleidoskop on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jan 2017 04:00:31 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/kaleidoskop/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://suksest.github.io/categories/kaleidoskop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Di Balik 15 Menit</title>
-      <link>http://localhost:1313/2017/01/31/di-balik-15-menit/</link>
+      <link>https://suksest.github.io/2017/01/31/di-balik-15-menit/</link>
       <pubDate>Tue, 31 Jan 2017 04:00:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/2017/01/31/di-balik-15-menit/</guid>
+      <guid>https://suksest.github.io/2017/01/31/di-balik-15-menit/</guid>
       <description>&lt;p style=&#34;text-align:justify;&#34;&gt;
-  &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2017/01/kuadran_karakter.png&#34;&gt;&lt;img class=&#34;size-medium wp-image-320 aligncenter&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/01/kuadran_karakter.png?w=300&#34; alt=&#34;kuadran_karakter&#34; width=&#34;300&#34; height=&#34;154&#34; srcset=&#34;http://localhost:1313/wp-content/uploads/2017/01/kuadran_karakter.png 853w, http://localhost:1313/wp-content/uploads/2017/01/kuadran_karakter-300x154.png 300w, http://localhost:1313/wp-content/uploads/2017/01/kuadran_karakter-768x395.png 768w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;
+  &lt;a href=&#34;https://suksest.github.io/wp-content/uploads/2017/01/kuadran_karakter.png&#34;&gt;&lt;img class=&#34;size-medium wp-image-320 aligncenter&#34; src=&#34;https://suksest.github.io/wp-content/uploads/2017/01/kuadran_karakter.png?w=300&#34; alt=&#34;kuadran_karakter&#34; width=&#34;300&#34; height=&#34;154&#34; srcset=&#34;https://suksest.github.io/wp-content/uploads/2017/01/kuadran_karakter.png 853w, https://suksest.github.io/wp-content/uploads/2017/01/kuadran_karakter-300x154.png 300w, https://suksest.github.io/wp-content/uploads/2017/01/kuadran_karakter-768x395.png 768w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p style=&#34;text-align:justify;&#34;&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Love, life and more (Last Part)</title>
-      <link>http://localhost:1313/2014/12/31/love-life-and-more-last-part/</link>
+      <link>https://suksest.github.io/2014/12/31/love-life-and-more-last-part/</link>
       <pubDate>Wed, 31 Dec 2014 14:10:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/2014/12/31/love-life-and-more-last-part/</guid>
+      <guid>https://suksest.github.io/2014/12/31/love-life-and-more-last-part/</guid>
       <description>&lt;p&gt;Juli 2014&lt;/p&gt;
 
 &lt;p&gt;Disini lah mental ku mulai di uji &lt;/p&gt;</description>
@@ -57,10 +57,10 @@
     
     <item>
       <title>Love, life, and more… (Part Two)</title>
-      <link>http://localhost:1313/2014/12/31/love-life-and-more-part-two/</link>
+      <link>https://suksest.github.io/2014/12/31/love-life-and-more-part-two/</link>
       <pubDate>Wed, 31 Dec 2014 13:54:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/2014/12/31/love-life-and-more-part-two/</guid>
+      <guid>https://suksest.github.io/2014/12/31/love-life-and-more-part-two/</guid>
       <description>&lt;p&gt;Kalau sebelumnya kita sampai di ujikom sekarang kita masuk ke fase UN… Check this out&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -68,10 +68,10 @@
     
     <item>
       <title>Love, life and more… (Part One)</title>
-      <link>http://localhost:1313/2014/12/31/love-life-and-more-part-one/</link>
+      <link>https://suksest.github.io/2014/12/31/love-life-and-more-part-one/</link>
       <pubDate>Wed, 31 Dec 2014 06:28:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/2014/12/31/love-life-and-more-part-one/</guid>
+      <guid>https://suksest.github.io/2014/12/31/love-life-and-more-part-one/</guid>
       <description>&lt;p&gt;Serial Love, life and more ini akan menceritakan tentang perjalanan hidup sepanjang tahun 2014, let&amp;#8217;s go check this out (part one)&lt;/p&gt;</description>
     </item>
     

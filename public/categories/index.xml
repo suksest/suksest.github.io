@@ -2,83 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://suksest.github.io/categories/</link>
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://suksest.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cinta</title>
-      <link>http://localhost:1313/categories/cinta/</link>
+      <link>https://suksest.github.io/categories/cinta/</link>
       <pubDate>Sun, 02 Jul 2017 06:00:35 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/cinta/</guid>
+      <guid>https://suksest.github.io/categories/cinta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Islam</title>
-      <link>http://localhost:1313/categories/islam/</link>
+      <link>https://suksest.github.io/categories/islam/</link>
       <pubDate>Wed, 05 Jul 2017 13:00:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/islam/</guid>
+      <guid>https://suksest.github.io/categories/islam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaleidoskop</title>
-      <link>http://localhost:1313/categories/kaleidoskop/</link>
+      <link>https://suksest.github.io/categories/kaleidoskop/</link>
       <pubDate>Tue, 31 Jan 2017 04:00:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/kaleidoskop/</guid>
+      <guid>https://suksest.github.io/categories/kaleidoskop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kuliah</title>
-      <link>http://localhost:1313/categories/kuliah/</link>
+      <link>https://suksest.github.io/categories/kuliah/</link>
       <pubDate>Sun, 11 Feb 2018 07:00:48 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/kuliah/</guid>
+      <guid>https://suksest.github.io/categories/kuliah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pelajaran Hidup</title>
-      <link>http://localhost:1313/categories/pelajaran-hidup/</link>
+      <link>https://suksest.github.io/categories/pelajaran-hidup/</link>
       <pubDate>Sun, 11 Feb 2018 07:00:48 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/pelajaran-hidup/</guid>
+      <guid>https://suksest.github.io/categories/pelajaran-hidup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System32</title>
-      <link>http://localhost:1313/categories/system32/</link>
+      <link>https://suksest.github.io/categories/system32/</link>
       <pubDate>Sun, 26 Mar 2017 07:00:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/system32/</guid>
+      <guid>https://suksest.github.io/categories/system32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/categories/tech/</link>
+      <link>https://suksest.github.io/categories/tech/</link>
       <pubDate>Sun, 04 Mar 2018 08:58:46 +0700</pubDate>
       
-      <guid>http://localhost:1313/categories/tech/</guid>
+      <guid>https://suksest.github.io/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncategorized</title>
-      <link>http://localhost:1313/categories/uncategorized/</link>
+      <link>https://suksest.github.io/categories/uncategorized/</link>
       <pubDate>Fri, 11 Jul 2014 03:06:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/uncategorized/</guid>
+      <guid>https://suksest.github.io/categories/uncategorized/</guid>
       <description></description>
     </item>
     
