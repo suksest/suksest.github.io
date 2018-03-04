@@ -1,0 +1,16 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[params]
+  author = "Sukma Setyaji"
+  motto = "Blogging through time"
+  description = "A simple blog tells about my journey through time"
+  avatar = "/img/avatar.jpg"
+  favicon = "/img/sysadmin.png"
+
+  email = "suksest@gmail.com"
+  github = "suksest"
+  linkedin = "sukma-setyaji"
+  codepen = ""
+  stackoverflow = ""

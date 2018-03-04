@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Listrik on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/listrik/</link>
+    <description>Recent content in Listrik on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2014 04:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/listrik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apa daya manusia tanpa listrik?</title>
+      <link>http://localhost:1313/2014/09/28/apa-daya-manusia-tanpa-listrik/</link>
+      <pubDate>Sun, 28 Sep 2014 04:09:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/09/28/apa-daya-manusia-tanpa-listrik/</guid>
+      <description>&lt;p&gt;Sudah empat kali dalam seminggu ini kami merasa terganggu.&lt;/p&gt;
+
+&lt;p&gt;Bagaimana tidak? dalam kurun waktu satu pekan ini sudah tiga kali listrik mati mendadak.&lt;/p&gt;
+
+&lt;p&gt;Bukan karena belum melengkapi administrasi.&lt;/p&gt;
+
+&lt;p&gt;Tapi ini benar-benar mati mendadak.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mcePageBreak mceItemNoResize&#34; src=&#34;https://secure.assets.tumblr.com/assets/scripts/vendor/tiny_mce_3_5_10/themes/advanced/img/trans.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biologi on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/biologi/</link>
+    <description>Recent content in Biologi on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2015 03:26:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/biologi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biologi, sebuah mitos yang ku temui kembali..</title>
+      <link>http://localhost:1313/2015/05/17/biologi-sebuah-mitos-yang-ku-temui-kembali-2/</link>
+      <pubDate>Sun, 17 May 2015 03:26:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2015/05/17/biologi-sebuah-mitos-yang-ku-temui-kembali-2/</guid>
+      <description>27 April 2015, rutinitas baru bersama teman-teman yang baru juga. Di sini kami berkompetisi (dibaca: berperang) dalam satu arena yang sama, SBMPTN. Hari itu, gak kayak biasanya, harus masuk kelas pagi-pagi, setelah hampir 9 bulan gak pernah masuk kelas tapi harus ngantor. Kali ini aku ngikutin les buat persiapan SBMPTN (dibaca: perang). yoohooo!
+Jam pertama perkenalan ringan, hal lumrah yang udah terlalu mainstream ketika awal masuk kelas.
+Jam kedua, gubrak! Untuk pertama kalinya lagi belajar BIOLOGI, terakhir belajar BIOLOGI waktu SMP dulu, lagian dulu gak terlalu interest.</description>
+    </item>
+    
+  </channel>
+</rss>
