@@ -1,6 +1,6 @@
 baseURL = "https://suksest.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sukma's tech blog"
 theme = "dream"
 
 [params]
