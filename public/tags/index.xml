@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
@@ -6,229 +6,9 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2015 21:00:37 +0000</lastBuildDate>
-    
-	<atom:link href="https://suksest.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 04 Mar 2018 08:58:46 +0700</lastBuildDate><atom:link href="https://suksest.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Api Tauhid</title>
-      <link>https://suksest.github.io/tags/api-tauhid/</link>
-      <pubDate>Wed, 04 Feb 2015 21:00:37 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/api-tauhid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bbm</title>
-      <link>https://suksest.github.io/tags/bbm/</link>
-      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/bbm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biologi</title>
-      <link>https://suksest.github.io/tags/biologi/</link>
-      <pubDate>Sun, 17 May 2015 03:26:36 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/biologi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Buka Bareng</title>
-      <link>https://suksest.github.io/tags/buka-bareng/</link>
-      <pubDate>Sat, 02 Jul 2016 04:15:26 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/buka-bareng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bukber</title>
-      <link>https://suksest.github.io/tags/bukber/</link>
-      <pubDate>Sat, 02 Jul 2016 04:15:26 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/bukber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dilan</title>
-      <link>https://suksest.github.io/tags/dilan/</link>
-      <pubDate>Sun, 28 Jan 2018 13:00:39 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/dilan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Facebook</title>
-      <link>https://suksest.github.io/tags/facebook/</link>
-      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/facebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finish</title>
-      <link>https://suksest.github.io/tags/finish/</link>
-      <pubDate>Wed, 04 Feb 2015 21:00:37 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/finish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hafal Quran</title>
-      <link>https://suksest.github.io/tags/hafal-quran/</link>
-      <pubDate>Sat, 02 Jul 2016 13:30:00 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/hafal-quran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hafiz Quran</title>
-      <link>https://suksest.github.io/tags/hafiz-quran/</link>
-      <pubDate>Sat, 02 Jul 2016 13:30:00 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/hafiz-quran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hari Ibu</title>
-      <link>https://suksest.github.io/tags/hari-ibu/</link>
-      <pubDate>Mon, 22 Dec 2014 01:57:36 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/hari-ibu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hidup</title>
-      <link>https://suksest.github.io/tags/hidup/</link>
-      <pubDate>Sun, 11 Feb 2018 07:00:48 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/hidup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hikmah</title>
-      <link>https://suksest.github.io/tags/hikmah/</link>
-      <pubDate>Sun, 11 Feb 2018 07:00:48 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/hikmah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hikmah Hari Ibu</title>
-      <link>https://suksest.github.io/tags/hikmah-hari-ibu/</link>
-      <pubDate>Mon, 22 Dec 2014 01:57:36 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/hikmah-hari-ibu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hikmah Kemenangan Belanda</title>
-      <link>https://suksest.github.io/tags/hikmah-kemenangan-belanda/</link>
-      <pubDate>Mon, 07 Jul 2014 04:13:40 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/hikmah-kemenangan-belanda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hujan</title>
-      <link>https://suksest.github.io/tags/hujan/</link>
-      <pubDate>Sun, 29 May 2016 03:00:44 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/hujan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ilmu</title>
-      <link>https://suksest.github.io/tags/ilmu/</link>
-      <pubDate>Tue, 03 Feb 2015 01:05:42 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/ilmu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instagram</title>
-      <link>https://suksest.github.io/tags/instagram/</link>
-      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/instagram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jalan Hidup</title>
-      <link>https://suksest.github.io/tags/jalan-hidup/</link>
-      <pubDate>Mon, 15 Sep 2014 07:30:13 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/jalan-hidup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kehidupan</title>
-      <link>https://suksest.github.io/tags/kehidupan/</link>
-      <pubDate>Sun, 28 Jan 2018 13:00:39 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/kehidupan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kisah Cinta</title>
-      <link>https://suksest.github.io/tags/kisah-cinta/</link>
-      <pubDate>Tue, 03 Feb 2015 01:05:42 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/kisah-cinta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korra</title>
-      <link>https://suksest.github.io/tags/korra/</link>
-      <pubDate>Sat, 04 Oct 2014 04:09:13 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/korra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Line</title>
-      <link>https://suksest.github.io/tags/line/</link>
-      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/line/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Listrik</title>
-      <link>https://suksest.github.io/tags/listrik/</link>
-      <pubDate>Sun, 28 Sep 2014 04:09:00 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/listrik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Menulis</title>
+      <title>menulis</title>
       <link>https://suksest.github.io/tags/menulis/</link>
       <pubDate>Sun, 04 Mar 2018 08:58:46 +0700</pubDate>
       
@@ -237,155 +17,29 @@
     </item>
     
     <item>
-      <title>Menulis Itu Mudah</title>
-      <link>https://suksest.github.io/tags/menulis-itu-mudah/</link>
-      <pubDate>Mon, 07 Jul 2014 06:28:13 +0000</pubDate>
+      <title>teknologi</title>
+      <link>https://suksest.github.io/tags/teknologi/</link>
+      <pubDate>Sun, 04 Mar 2018 08:58:46 +0700</pubDate>
       
-      <guid>https://suksest.github.io/tags/menulis-itu-mudah/</guid>
+      <guid>https://suksest.github.io/tags/teknologi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Motor Di Atas Trotoar</title>
-      <link>https://suksest.github.io/tags/motor-di-atas-trotoar/</link>
-      <pubDate>Wed, 25 May 2016 08:24:27 +0000</pubDate>
+      <title>hidup</title>
+      <link>https://suksest.github.io/tags/hidup/</link>
+      <pubDate>Sun, 11 Feb 2018 07:00:48 +0000</pubDate>
       
-      <guid>https://suksest.github.io/tags/motor-di-atas-trotoar/</guid>
+      <guid>https://suksest.github.io/tags/hidup/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Novel</title>
-      <link>https://suksest.github.io/tags/novel/</link>
-      <pubDate>Wed, 04 Feb 2015 21:00:37 +0000</pubDate>
+      <title>hikmah</title>
+      <link>https://suksest.github.io/tags/hikmah/</link>
+      <pubDate>Sun, 11 Feb 2018 07:00:48 +0000</pubDate>
       
-      <guid>https://suksest.github.io/tags/novel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pahala</title>
-      <link>https://suksest.github.io/tags/pahala/</link>
-      <pubDate>Tue, 16 Sep 2014 04:30:59 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/pahala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Path</title>
-      <link>https://suksest.github.io/tags/path/</link>
-      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/path/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pelangi</title>
-      <link>https://suksest.github.io/tags/pelangi/</link>
-      <pubDate>Sun, 29 May 2016 03:00:44 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/pelangi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pengen Kuliah</title>
-      <link>https://suksest.github.io/tags/pengen-kuliah/</link>
-      <pubDate>Tue, 31 Mar 2015 06:11:56 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/pengen-kuliah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Puasa</title>
-      <link>https://suksest.github.io/tags/puasa/</link>
-      <pubDate>Sat, 02 Jul 2016 04:15:26 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/puasa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quote</title>
-      <link>https://suksest.github.io/tags/quote/</link>
-      <pubDate>Sun, 28 Jan 2018 13:00:39 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/quote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quote Hujan</title>
-      <link>https://suksest.github.io/tags/quote-hujan/</link>
-      <pubDate>Sun, 29 May 2016 03:00:44 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/quote-hujan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quotes Hari Ibu</title>
-      <link>https://suksest.github.io/tags/quotes-hari-ibu/</link>
-      <pubDate>Mon, 22 Dec 2014 01:57:36 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/quotes-hari-ibu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quotes Hujan</title>
-      <link>https://suksest.github.io/tags/quotes-hujan/</link>
-      <pubDate>Sun, 29 May 2016 03:00:44 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/quotes-hujan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ramadhan</title>
-      <link>https://suksest.github.io/tags/ramadhan/</link>
-      <pubDate>Sat, 02 Jul 2016 13:30:00 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/ramadhan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review</title>
-      <link>https://suksest.github.io/tags/review/</link>
-      <pubDate>Wed, 04 Feb 2015 21:00:37 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sbmptn</title>
-      <link>https://suksest.github.io/tags/sbmptn/</link>
-      <pubDate>Sun, 17 May 2015 03:26:36 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/sbmptn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smkdtbs</title>
-      <link>https://suksest.github.io/tags/smkdtbs/</link>
-      <pubDate>Wed, 31 Dec 2014 14:10:17 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/smkdtbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sosmed</title>
-      <link>https://suksest.github.io/tags/sosmed/</link>
-      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/tags/sosmed/</guid>
+      <guid>https://suksest.github.io/tags/hikmah/</guid>
       <description></description>
     </item>
     
@@ -399,16 +53,142 @@
     </item>
     
     <item>
-      <title>Teknologi</title>
-      <link>https://suksest.github.io/tags/teknologi/</link>
-      <pubDate>Sun, 04 Mar 2018 08:58:46 +0700</pubDate>
+      <title>dilan</title>
+      <link>https://suksest.github.io/tags/dilan/</link>
+      <pubDate>Sun, 28 Jan 2018 13:00:39 +0000</pubDate>
       
-      <guid>https://suksest.github.io/tags/teknologi/</guid>
+      <guid>https://suksest.github.io/tags/dilan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tips Belajar</title>
+      <title>kehidupan</title>
+      <link>https://suksest.github.io/tags/kehidupan/</link>
+      <pubDate>Sun, 28 Jan 2018 13:00:39 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/kehidupan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quote</title>
+      <link>https://suksest.github.io/tags/quote/</link>
+      <pubDate>Sun, 28 Jan 2018 13:00:39 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hafal quran</title>
+      <link>https://suksest.github.io/tags/hafal-quran/</link>
+      <pubDate>Sat, 02 Jul 2016 13:30:00 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/hafal-quran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hafiz quran</title>
+      <link>https://suksest.github.io/tags/hafiz-quran/</link>
+      <pubDate>Sat, 02 Jul 2016 13:30:00 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/hafiz-quran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ramadhan</title>
+      <link>https://suksest.github.io/tags/ramadhan/</link>
+      <pubDate>Sat, 02 Jul 2016 13:30:00 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/ramadhan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buka bareng</title>
+      <link>https://suksest.github.io/tags/buka-bareng/</link>
+      <pubDate>Sat, 02 Jul 2016 04:15:26 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/buka-bareng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bukber</title>
+      <link>https://suksest.github.io/tags/bukber/</link>
+      <pubDate>Sat, 02 Jul 2016 04:15:26 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/bukber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>puasa</title>
+      <link>https://suksest.github.io/tags/puasa/</link>
+      <pubDate>Sat, 02 Jul 2016 04:15:26 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/puasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hujan</title>
+      <link>https://suksest.github.io/tags/hujan/</link>
+      <pubDate>Sun, 29 May 2016 03:00:44 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/hujan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pelangi</title>
+      <link>https://suksest.github.io/tags/pelangi/</link>
+      <pubDate>Sun, 29 May 2016 03:00:44 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/pelangi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quote hujan</title>
+      <link>https://suksest.github.io/tags/quote-hujan/</link>
+      <pubDate>Sun, 29 May 2016 03:00:44 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/quote-hujan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes hujan</title>
+      <link>https://suksest.github.io/tags/quotes-hujan/</link>
+      <pubDate>Sun, 29 May 2016 03:00:44 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/quotes-hujan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motor di atas trotoar</title>
+      <link>https://suksest.github.io/tags/motor-di-atas-trotoar/</link>
+      <pubDate>Wed, 25 May 2016 08:24:27 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/motor-di-atas-trotoar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trotoar</title>
+      <link>https://suksest.github.io/tags/trotoar/</link>
+      <pubDate>Wed, 25 May 2016 08:24:27 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/trotoar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips belajar</title>
       <link>https://suksest.github.io/tags/tips-belajar/</link>
       <pubDate>Mon, 27 Jul 2015 04:35:05 +0000</pubDate>
       
@@ -417,7 +197,7 @@
     </item>
     
     <item>
-      <title>Tips Belajar Matematika</title>
+      <title>tips belajar matematika</title>
       <link>https://suksest.github.io/tags/tips-belajar-matematika/</link>
       <pubDate>Mon, 27 Jul 2015 04:35:05 +0000</pubDate>
       
@@ -426,7 +206,7 @@
     </item>
     
     <item>
-      <title>Tips Menyukai Matematika</title>
+      <title>tips menyukai matematika</title>
       <link>https://suksest.github.io/tags/tips-menyukai-matematika/</link>
       <pubDate>Mon, 27 Jul 2015 04:35:05 +0000</pubDate>
       
@@ -435,11 +215,137 @@
     </item>
     
     <item>
-      <title>Trotoar</title>
-      <link>https://suksest.github.io/tags/trotoar/</link>
-      <pubDate>Wed, 25 May 2016 08:24:27 +0000</pubDate>
+      <title>biologi</title>
+      <link>https://suksest.github.io/tags/biologi/</link>
+      <pubDate>Sun, 17 May 2015 03:26:36 +0000</pubDate>
       
-      <guid>https://suksest.github.io/tags/trotoar/</guid>
+      <guid>https://suksest.github.io/tags/biologi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBMPTN</title>
+      <link>https://suksest.github.io/tags/sbmptn/</link>
+      <pubDate>Sun, 17 May 2015 03:26:36 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/sbmptn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pengen kuliah</title>
+      <link>https://suksest.github.io/tags/pengen-kuliah/</link>
+      <pubDate>Tue, 31 Mar 2015 06:11:56 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/pengen-kuliah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BBM</title>
+      <link>https://suksest.github.io/tags/bbm/</link>
+      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/bbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facebook</title>
+      <link>https://suksest.github.io/tags/facebook/</link>
+      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instagram</title>
+      <link>https://suksest.github.io/tags/instagram/</link>
+      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>line</title>
+      <link>https://suksest.github.io/tags/line/</link>
+      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>path</title>
+      <link>https://suksest.github.io/tags/path/</link>
+      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sosmed</title>
+      <link>https://suksest.github.io/tags/sosmed/</link>
+      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/sosmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://suksest.github.io/tags/twitter/</link>
+      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whatsapp</title>
+      <link>https://suksest.github.io/tags/whatsapp/</link>
+      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/whatsapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api tauhid</title>
+      <link>https://suksest.github.io/tags/api-tauhid/</link>
+      <pubDate>Wed, 04 Feb 2015 21:00:37 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/api-tauhid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finish</title>
+      <link>https://suksest.github.io/tags/finish/</link>
+      <pubDate>Wed, 04 Feb 2015 21:00:37 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/finish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>novel</title>
+      <link>https://suksest.github.io/tags/novel/</link>
+      <pubDate>Wed, 04 Feb 2015 21:00:37 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://suksest.github.io/tags/review/</link>
+      <pubDate>Wed, 04 Feb 2015 21:00:37 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/review/</guid>
       <description></description>
     </item>
     
@@ -453,7 +359,70 @@
     </item>
     
     <item>
-      <title>Tv</title>
+      <title>ilmu</title>
+      <link>https://suksest.github.io/tags/ilmu/</link>
+      <pubDate>Tue, 03 Feb 2015 01:05:42 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/ilmu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kisah cinta</title>
+      <link>https://suksest.github.io/tags/kisah-cinta/</link>
+      <pubDate>Tue, 03 Feb 2015 01:05:42 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/kisah-cinta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smkdtbs</title>
+      <link>https://suksest.github.io/tags/smkdtbs/</link>
+      <pubDate>Wed, 31 Dec 2014 14:10:17 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/smkdtbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hari ibu</title>
+      <link>https://suksest.github.io/tags/hari-ibu/</link>
+      <pubDate>Mon, 22 Dec 2014 01:57:36 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/hari-ibu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hikmah hari ibu</title>
+      <link>https://suksest.github.io/tags/hikmah-hari-ibu/</link>
+      <pubDate>Mon, 22 Dec 2014 01:57:36 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/hikmah-hari-ibu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes hari ibu</title>
+      <link>https://suksest.github.io/tags/quotes-hari-ibu/</link>
+      <pubDate>Mon, 22 Dec 2014 01:57:36 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/quotes-hari-ibu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>korra</title>
+      <link>https://suksest.github.io/tags/korra/</link>
+      <pubDate>Sat, 04 Oct 2014 04:09:13 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/korra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TV</title>
       <link>https://suksest.github.io/tags/tv/</link>
       <pubDate>Sat, 04 Oct 2014 03:27:57 +0000</pubDate>
       
@@ -462,29 +431,56 @@
     </item>
     
     <item>
-      <title>Twitter</title>
-      <link>https://suksest.github.io/tags/twitter/</link>
-      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      <title>listrik</title>
+      <link>https://suksest.github.io/tags/listrik/</link>
+      <pubDate>Sun, 28 Sep 2014 04:09:00 +0000</pubDate>
       
-      <guid>https://suksest.github.io/tags/twitter/</guid>
+      <guid>https://suksest.github.io/tags/listrik/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Whatsapp</title>
-      <link>https://suksest.github.io/tags/whatsapp/</link>
-      <pubDate>Wed, 04 Mar 2015 03:26:24 +0000</pubDate>
+      <title>pahala</title>
+      <link>https://suksest.github.io/tags/pahala/</link>
+      <pubDate>Tue, 16 Sep 2014 04:30:59 +0000</pubDate>
       
-      <guid>https://suksest.github.io/tags/whatsapp/</guid>
+      <guid>https://suksest.github.io/tags/pahala/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>World Cup</title>
+      <title>jalan hidup</title>
+      <link>https://suksest.github.io/tags/jalan-hidup/</link>
+      <pubDate>Mon, 15 Sep 2014 07:30:13 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/jalan-hidup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>world-cup</title>
       <link>https://suksest.github.io/tags/world-cup/</link>
       <pubDate>Fri, 11 Jul 2014 03:06:44 +0000</pubDate>
       
       <guid>https://suksest.github.io/tags/world-cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>menulis-itu-mudah</title>
+      <link>https://suksest.github.io/tags/menulis-itu-mudah/</link>
+      <pubDate>Mon, 07 Jul 2014 06:28:13 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/menulis-itu-mudah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hikmah-kemenangan-belanda</title>
+      <link>https://suksest.github.io/tags/hikmah-kemenangan-belanda/</link>
+      <pubDate>Mon, 07 Jul 2014 04:13:40 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/tags/hikmah-kemenangan-belanda/</guid>
       <description></description>
     </item>
     

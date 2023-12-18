@@ -5,7 +5,7 @@ theme = "dream"
 
 [params]
   author = "Sukma Setyaji"
-  motto = "you'll be remembered"
+  motto = "you(code)'ll be remembered"
   headerTitle = "Sukma's tech blog"
   avatar = "/img/avatar.jpg"
   favicon = "/img/sysadmin.png"

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
@@ -6,34 +6,13 @@
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://suksest.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 04 Mar 2018 08:58:46 +0700</lastBuildDate><atom:link href="https://suksest.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cinta</title>
-      <link>https://suksest.github.io/categories/cinta/</link>
-      <pubDate>Sun, 02 Jul 2017 06:00:35 +0000</pubDate>
+      <title>tech</title>
+      <link>https://suksest.github.io/categories/tech/</link>
+      <pubDate>Sun, 04 Mar 2018 08:58:46 +0700</pubDate>
       
-      <guid>https://suksest.github.io/categories/cinta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Islam</title>
-      <link>https://suksest.github.io/categories/islam/</link>
-      <pubDate>Wed, 05 Jul 2017 13:00:32 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/categories/islam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kaleidoskop</title>
-      <link>https://suksest.github.io/categories/kaleidoskop/</link>
-      <pubDate>Tue, 31 Jan 2017 04:00:31 +0000</pubDate>
-      
-      <guid>https://suksest.github.io/categories/kaleidoskop/</guid>
+      <guid>https://suksest.github.io/categories/tech/</guid>
       <description></description>
     </item>
     
@@ -56,6 +35,24 @@
     </item>
     
     <item>
+      <title>Islam</title>
+      <link>https://suksest.github.io/categories/islam/</link>
+      <pubDate>Wed, 05 Jul 2017 13:00:32 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/categories/islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cinta</title>
+      <link>https://suksest.github.io/categories/cinta/</link>
+      <pubDate>Sun, 02 Jul 2017 06:00:35 +0000</pubDate>
+      
+      <guid>https://suksest.github.io/categories/cinta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>System32</title>
       <link>https://suksest.github.io/categories/system32/</link>
       <pubDate>Sun, 26 Mar 2017 07:00:20 +0000</pubDate>
@@ -65,11 +62,11 @@
     </item>
     
     <item>
-      <title>Tech</title>
-      <link>https://suksest.github.io/categories/tech/</link>
-      <pubDate>Sun, 04 Mar 2018 08:58:46 +0700</pubDate>
+      <title>Kaleidoskop</title>
+      <link>https://suksest.github.io/categories/kaleidoskop/</link>
+      <pubDate>Tue, 31 Jan 2017 04:00:31 +0000</pubDate>
       
-      <guid>https://suksest.github.io/categories/tech/</guid>
+      <guid>https://suksest.github.io/categories/kaleidoskop/</guid>
       <description></description>
     </item>
     
